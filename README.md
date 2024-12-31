@@ -1,0 +1,1 @@
+This repository contains my solutions to various problems on LeetCode. The solutions are implemented in multiple programming languages, and I aim to provide efficient, well-explained code for each problem. You can explore the problems categorized by their difficulty and topics.
