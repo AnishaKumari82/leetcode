@@ -8,6 +8,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/AnishaKumari82/leetcode/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
