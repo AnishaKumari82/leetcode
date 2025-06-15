@@ -5,6 +5,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AnishaKumari82/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AnishaKumari82/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
