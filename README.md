@@ -13,6 +13,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0283-move-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AnishaKumari82/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -56,8 +57,10 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
