@@ -17,6 +17,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0503-next-greater-element-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AnishaKumari82/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AnishaKumari82/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/AnishaKumari82/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0503-next-greater-element-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AnishaKumari82/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/AnishaKumari82/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/AnishaKumari82/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -72,6 +74,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AnishaKumari82/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/AnishaKumari82/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
