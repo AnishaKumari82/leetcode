@@ -12,6 +12,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0136-single-number](https://github.com/AnishaKumari82/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/AnishaKumari82/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AnishaKumari82/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -105,4 +106,20 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnishaKumari82/leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnishaKumari82/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnishaKumari82/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnishaKumari82/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
