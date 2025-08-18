@@ -71,6 +71,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AnishaKumari82/leetcode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/AnishaKumari82/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AnishaKumari82/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnishaKumari82/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -82,6 +83,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/AnishaKumari82/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AnishaKumari82/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnishaKumari82/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
@@ -122,4 +124,12 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AnishaKumari82/leetcode/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/AnishaKumari82/leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/AnishaKumari82/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
