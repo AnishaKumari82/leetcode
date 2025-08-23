@@ -36,6 +36,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnishaKumari82/leetcode/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
@@ -127,9 +128,18 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
 | [0937-online-stock-span](https://github.com/AnishaKumari82/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/AnishaKumari82/leetcode/tree/master/0937-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
