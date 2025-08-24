@@ -39,6 +39,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
+| [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/AnishaKumari82/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -138,8 +140,10 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
