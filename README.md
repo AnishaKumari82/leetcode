@@ -31,6 +31,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AnishaKumari82/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/AnishaKumari82/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
