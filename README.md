@@ -30,6 +30,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AnishaKumari82/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
