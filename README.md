@@ -40,6 +40,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0042-trapping-rain-water](https://github.com/AnishaKumari82/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0283-move-zeroes) |
+| [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
+| [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
 ## Greedy
 |  |
 | ------- |
