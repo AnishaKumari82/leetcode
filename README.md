@@ -89,6 +89,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0735-asteroid-collision](https://github.com/AnishaKumari82/leetcode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/AnishaKumari82/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AnishaKumari82/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/AnishaKumari82/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnishaKumari82/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -119,6 +120,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | ------- |
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
 | [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
+| [1021-remove-outermost-parentheses](https://github.com/AnishaKumari82/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
