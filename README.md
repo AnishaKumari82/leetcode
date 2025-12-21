@@ -11,6 +11,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0035-search-insert-position](https://github.com/AnishaKumari82/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AnishaKumari82/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AnishaKumari82/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/AnishaKumari82/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnishaKumari82/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaKumari82/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,6 +39,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnishaKumari82/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/AnishaKumari82/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0283-move-zeroes) |
@@ -67,6 +69,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnishaKumari82/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
