@@ -35,6 +35,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0009-palindrome-number](https://github.com/AnishaKumari82/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/AnishaKumari82/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,10 +127,12 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
 | [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/AnishaKumari82/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/AnishaKumari82/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/AnishaKumari82/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
