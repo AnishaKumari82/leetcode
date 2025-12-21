@@ -38,6 +38,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnishaKumari82/leetcode/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0283-move-zeroes) |
 | [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
@@ -118,6 +119,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
 | [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/AnishaKumari82/leetcode/tree/master/1021-remove-outermost-parentheses) |
