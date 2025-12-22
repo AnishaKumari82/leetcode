@@ -18,6 +18,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0136-single-number](https://github.com/AnishaKumari82/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/AnishaKumari82/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AnishaKumari82/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0283-move-zeroes) |
@@ -175,4 +176,8 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | ------- |
 | [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AnishaKumari82/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
