@@ -125,6 +125,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/AnishaKumari82/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
 | [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
