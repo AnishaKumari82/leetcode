@@ -56,6 +56,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0001-two-sum](https://github.com/AnishaKumari82/leetcode/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/AnishaKumari82/leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
@@ -132,6 +133,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0014-longest-common-prefix](https://github.com/AnishaKumari82/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/AnishaKumari82/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/AnishaKumari82/leetcode/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
 | [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/AnishaKumari82/leetcode/tree/master/1021-remove-outermost-parentheses) |
