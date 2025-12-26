@@ -16,6 +16,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0084-largest-rectangle-in-histogram](https://github.com/AnishaKumari82/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaKumari82/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/AnishaKumari82/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
@@ -121,6 +122,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0053-maximum-subarray](https://github.com/AnishaKumari82/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaKumari82/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AnishaKumari82/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -142,6 +144,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/AnishaKumari82/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
