@@ -61,6 +61,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/AnishaKumari82/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/AnishaKumari82/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/AnishaKumari82/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/AnishaKumari82/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/AnishaKumari82/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
