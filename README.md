@@ -20,6 +20,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0136-single-number](https://github.com/AnishaKumari82/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/AnishaKumari82/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AnishaKumari82/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AnishaKumari82/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AnishaKumari82/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/AnishaKumari82/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
@@ -80,6 +82,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | ------- |
 | [0075-sort-colors](https://github.com/AnishaKumari82/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AnishaKumari82/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
