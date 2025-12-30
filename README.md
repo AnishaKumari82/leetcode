@@ -66,6 +66,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0217-contains-duplicate](https://github.com/AnishaKumari82/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/AnishaKumari82/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AnishaKumari82/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -99,6 +100,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | ------- |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AnishaKumari82/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -147,6 +149,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0151-reverse-words-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AnishaKumari82/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/AnishaKumari82/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
 | [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/AnishaKumari82/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -168,6 +171,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AnishaKumari82/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
