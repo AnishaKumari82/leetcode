@@ -13,6 +13,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0035-search-insert-position](https://github.com/AnishaKumari82/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AnishaKumari82/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AnishaKumari82/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AnishaKumari82/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnishaKumari82/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
@@ -59,6 +60,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnishaKumari82/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AnishaKumari82/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AnishaKumari82/leetcode/tree/master/0169-majority-element) |
@@ -165,6 +167,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
 | [1572-matrix-diagonal-sum](https://github.com/AnishaKumari82/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Queue
