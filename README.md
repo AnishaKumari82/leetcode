@@ -12,6 +12,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnishaKumari82/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AnishaKumari82/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AnishaKumari82/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/AnishaKumari82/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AnishaKumari82/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AnishaKumari82/leetcode/tree/master/0075-sort-colors) |
@@ -42,6 +43,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | ------- |
 | [0007-reverse-integer](https://github.com/AnishaKumari82/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnishaKumari82/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/AnishaKumari82/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/AnishaKumari82/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -167,6 +169,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AnishaKumari82/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
 | [1572-matrix-diagonal-sum](https://github.com/AnishaKumari82/leetcode/tree/master/1572-matrix-diagonal-sum) |
