@@ -14,6 +14,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0042-trapping-rain-water](https://github.com/AnishaKumari82/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AnishaKumari82/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AnishaKumari82/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AnishaKumari82/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AnishaKumari82/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnishaKumari82/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -143,6 +144,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AnishaKumari82/leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/AnishaKumari82/leetcode/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AnishaKumari82/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -170,6 +172,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AnishaKumari82/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AnishaKumari82/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
 | [1572-matrix-diagonal-sum](https://github.com/AnishaKumari82/leetcode/tree/master/1572-matrix-diagonal-sum) |
