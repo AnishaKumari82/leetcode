@@ -33,6 +33,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0485-max-consecutive-ones](https://github.com/AnishaKumari82/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/AnishaKumari82/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/AnishaKumari82/leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/AnishaKumari82/leetcode/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/AnishaKumari82/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -74,6 +75,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0387-first-unique-character-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/AnishaKumari82/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AnishaKumari82/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## Binary Search
 |  |
@@ -217,6 +219,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnishaKumari82/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/AnishaKumari82/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
 | ------- |
