@@ -143,6 +143,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaKumari82/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AnishaKumari82/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [3791-number-of-balanced-integers-in-a-range](https://github.com/AnishaKumari82/leetcode/tree/master/3791-number-of-balanced-integers-in-a-range) |
 ## Simulation
 |  |
 | ------- |
