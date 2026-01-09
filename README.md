@@ -20,6 +20,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0075-sort-colors](https://github.com/AnishaKumari82/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnishaKumari82/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/AnishaKumari82/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaKumari82/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AnishaKumari82/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -145,6 +146,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0042-trapping-rain-water](https://github.com/AnishaKumari82/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AnishaKumari82/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/AnishaKumari82/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaKumari82/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AnishaKumari82/leetcode/tree/master/0943-sum-of-subarray-minimums) |
