@@ -51,6 +51,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0009-palindrome-number](https://github.com/AnishaKumari82/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AnishaKumari82/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/AnishaKumari82/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/AnishaKumari82/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -97,6 +98,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnishaKumari82/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AnishaKumari82/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnishaKumari82/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -249,4 +251,8 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/AnishaKumari82/leetcode/tree/master/0796-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AnishaKumari82/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
