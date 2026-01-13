@@ -231,6 +231,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/AnishaKumari82/leetcode/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -257,5 +258,6 @@ This repository contains my solutions to various problems on LeetCode. The solut
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AnishaKumari82/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnishaKumari82/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
