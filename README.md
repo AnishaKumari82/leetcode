@@ -64,6 +64,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0075-sort-colors](https://github.com/AnishaKumari82/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/AnishaKumari82/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AnishaKumari82/leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/AnishaKumari82/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AnishaKumari82/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AnishaKumari82/leetcode/tree/master/0344-reverse-string) |
 | [0925-long-pressed-name](https://github.com/AnishaKumari82/leetcode/tree/master/0925-long-pressed-name) |
@@ -130,6 +131,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | [0042-trapping-rain-water](https://github.com/AnishaKumari82/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnishaKumari82/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AnishaKumari82/leetcode/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/AnishaKumari82/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/AnishaKumari82/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AnishaKumari82/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnishaKumari82/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -232,6 +234,7 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | ------- |
 | [0146-lru-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AnishaKumari82/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AnishaKumari82/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/AnishaKumari82/leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -260,4 +263,5 @@ This repository contains my solutions to various problems on LeetCode. The solut
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AnishaKumari82/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnishaKumari82/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AnishaKumari82/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
