@@ -26,20 +26,46 @@
 //     }
 // }
 
+// class Solution {
+//     public ListNode reverseList(ListNode head) {
+//         return reverse(head);
+//     }
+    
+//     private ListNode reverse(ListNode head) {
+//         if (head == null || head.next == null) {
+//             return head;
+//         }
+
+//         ListNode newHead = reverse(head.next); // Recursively reverse the list
+//         head.next.next = head; // Reverse the link
+//         head.next = null; // Break the original link
+
+//         return newHead; // Return the new head of the reversed list
+//     }
+// }
+
+
+//brute force iterative
 class Solution {
     public ListNode reverseList(ListNode head) {
-        return reverse(head);
+
+            if(head==null || head.next == null){
+                return head;
+            }
+            ListNode temp = head;
+            ListNode prev = null;
+            while(temp!=null){
+            
+            ListNode front = temp.next;
+            temp.next = prev;
+            prev=temp;
+            temp= front;
+            }
+
+        return prev;
     }
     
-    private ListNode reverse(ListNode head) {
-        if (head == null || head.next == null) {
-            return head;
-        }
-
-        ListNode newHead = reverse(head.next); // Recursively reverse the list
-        head.next.next = head; // Reverse the link
-        head.next = null; // Break the original link
-
-        return newHead; // Return the new head of the reversed list
-    }
 }
+
+
+
